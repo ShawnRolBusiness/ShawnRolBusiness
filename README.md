@@ -1,5 +1,5 @@
-- Hi, my name is Shawn David Matthew M. Rolinson
-- I’m interested in Programming and Games
-- I’m currently learning Python, but I have experience in HTML, C, C#, and C++
-- I’m looking to get a job
-- I'm mostly self-taught but I have studied some online courses and an online school
+- Hi, my name is Shawn David Matthew M. Rolinson.
+- I’m currently learning Python, but I have experience in HTML, C, C#, and C++.
+- I'm mostly self-taught.
+- I have experience with: HTML, C, C#, C+++, Python, Java, Android Studio, Godot, Unity.
+- Currently I am learning how to use Kotlin rather than java for Android Studio.
